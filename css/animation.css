@@ -1,3 +1,5 @@
+/* using Emmet plugin type just this -animation and get this: */
+
 .square {
     -webkit-animation-timing-function: ease-in-out;
     -o-animation-timing-function: ease-in-out;

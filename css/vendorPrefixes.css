@@ -1,6 +1,6 @@
-/* gradient*/
+/* gradient just type this lg(left, blue, red) and get this: */
 body {
-    background-image: -webkit-linear-gradient(left, #fff 10%, #000);
-    background-image: -o-linear-gradient(left, #fff 10%, #000);
-    background-image: linear-gradient(to right, #fff 10%, #000);
+    background-image: -webkit-linear-gradient(left, blue, red);
+    background-image: -o-linear-gradient(left, blue, red);
+    background-image: linear-gradient(to right, blue, red);
 }

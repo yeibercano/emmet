@@ -1,0 +1,6 @@
+/* gradient*/
+body {
+    background-image: -webkit-linear-gradient(left, #fff 10%, #000);
+    background-image: -o-linear-gradient(left, #fff 10%, #000);
+    background-image: linear-gradient(to right, #fff 10%, #000);
+}
